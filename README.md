@@ -14,5 +14,5 @@ I have conducted the following simualtion during my professonal experience:
 Currently I'm working on a few personal projects using ANSYS, MATLAB/Simulink, Python, Julia and OpenFOAM for renewable energy applications.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakti-patel) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaktivpatel) 
 
